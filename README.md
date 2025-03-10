@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate C# developer who loves building e
 ## About Me
 
 - 🔭 I’m currently working on: **Innovative .NET applications and microservices architecture**
-- 🌱 I’m currently learning: **Advanced C# techniques and cloud-based services**
-- 💬 Ask me about: **C#, .NET, and software development best practices**
+- 🌱 I’m currently learning: **Advanced C# techniques and cloud-based services also learning some ruby**
+- 💬 Ask me about: **C#, .NET, and software design/development best practices**
 - 📫 How to reach me: **[gj.vermeulen2@gmail.com](mailto:gj.vermeulen2@gmail.com)**
-- ⚡ Fun fact: **I enjoy hiking and exploring nature trails during the weekends**
+- ⚡ Fun fact: **I enjoy weightlifting and im a movie fanatic**
 
 ## Projects
 
